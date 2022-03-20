@@ -27,9 +27,11 @@ We have currently release the source code submitted to CVPR-22 as the supplement
 We plan to provide the clean code with more detailed informations before the main conference of CVPR 2022.
 
 ### Cite
+```
 @inproceedings{han2022dmha,
   title={Connecting the Complementary-view Videos: Joint Camera Identification and Subject Association}, 
   author={Han, Ruize and Gan, Yiyang and Li, Jiacheng and Wang, Feifan and Feng, Wei and Wang, Song},  
   year={2022},  
   booktitle={IEEE/CVF Conference on Computer Vision and Pattern Recognition}
 }
+  ```
