@@ -3,6 +3,8 @@ The dataset and code for Connecting the Complementary-view Videos: Joint Camera 
 
 ## Introduction
 
+<div align= justify>
+
 We attempt to connect the data from complementary views, i.e., top view from drone-mounted cameras in the air, and side view from wearable cameras on the ground. Collaborative analysis of such complementary-view data can facilitate to build the air-ground cooperative visual system for various kinds of applications. 
 As shown in the below figure.
 This is a very challenging problem due to the large view difference between top and side views. 
