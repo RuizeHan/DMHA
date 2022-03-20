@@ -11,7 +11,6 @@ This is a very challenging problem due to the large view difference between top 
 
 <div align=center><img src="https://github.com/RuizeHan/DMHA/blob/main/figs/example.jpg" width="825" height="125" alt="example"/><br/>
 
-&emsp;
   
 <div align= justify>
   
