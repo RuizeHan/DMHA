@@ -9,7 +9,7 @@ We attempt to connect the data from complementary views, i.e., top view from dro
 As shown in the below figure.
 This is a very challenging problem due to the large view difference between top and side views. 
 
-<div align=center><img src="https://github.com/RuizeHan/DMHA/blob/main/figs/example.jpg" width="660" height="100" alt="example"/><br/>
+<div align=center><img src="https://github.com/RuizeHan/DMHA/blob/main/figs/example.jpg" width="825" height="125" alt="example"/><br/>
 
 &emsp;
   
