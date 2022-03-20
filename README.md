@@ -1,5 +1,5 @@
 # DMHA
-The dataset and code for Connecting the Complementary-view Videos: Joint Camera Identification and Subject Association (CVPR 2022).
+The dataset and code for Connecting the Complementary-view Videos: Joint Camera Identification and Subject Association in CVPR 2022, which we also called as Deep Multi-Human Association (DMHA).
 
 ## Introduction
 
