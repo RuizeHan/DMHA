@@ -23,8 +23,8 @@ Link (Baidu Drive)：https://pan.baidu.com/s/1u_ed8w4cTe_w9bz1_Sk2ZA
 Password：DMHA
 
 ### Code:
-We have currently release the source code submitted to CVPR-22 as the supplementary material. 
-% We plan to provide the clean code with more detailed informations before the main conference of CVPR 2022.
+We have released the source code submitted to CVPR-22 as the supplementary material. 
+<!-- We plan to provide the clean code with more detailed informations before the main conference of CVPR 2022. --> 
 
 ### Cite
 ```
